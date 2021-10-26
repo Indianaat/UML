@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T15:24:31.101Z" agent="5.0 (Windows)" etag="X3LSin-96hXgVrtj8-Xd" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T16:07:15.864Z" agent="5.0 (Windows)" etag="17Hp75PcfQLY37hjX2jn" version="15.5.9" type="github">
   <diagram id="G4VtSYFpmaWrAjJy4jpy" name="Page-1">
-    <mxGraphModel dx="1204" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,10 +189,10 @@
             <mxPoint x="585" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GlsusITgwDo-E77ch8Gr-70" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="GlsusITgwDo-E77ch8Gr-70" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="555" y="380" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GlsusITgwDo-E77ch8Gr-71" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="GlsusITgwDo-E77ch8Gr-71" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GlsusITgwDo-E77ch8Gr-72" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GlsusITgwDo-E77ch8Gr-67" target="GlsusITgwDo-E77ch8Gr-5">
@@ -250,7 +250,7 @@
           <mxGeometry x="633" y="281" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GlsusITgwDo-E77ch8Gr-85" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="190" width="20" height="20" as="geometry" />
+          <mxGeometry x="682" y="189" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GlsusITgwDo-E77ch8Gr-86" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="281" width="20" height="20" as="geometry" />
@@ -300,8 +300,26 @@
         <mxCell id="GlsusITgwDo-E77ch8Gr-100" value="&lt;div align=&quot;left&quot;&gt;- rango&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- direccion&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1020" y="140" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GlsusITgwDo-E77ch8Gr-101" value="&lt;div align=&quot;left&quot;&gt;- numero_pedido&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- fecha_entrega&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- precio_total&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="489" y="300" width="100" height="50" as="geometry" />
+        <mxCell id="GlsusITgwDo-E77ch8Gr-101" value="&lt;div align=&quot;left&quot;&gt;- numero_pedido (PK)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- fecha_entrega&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- precio_total&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="281" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GlsusITgwDo-E77ch8Gr-103" value="&lt;div align=&quot;left&quot;&gt;- ID_producto (PK)&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- codigo_producto&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- nombre_producto&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- precio&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- descripcion&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="335" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GlsusITgwDo-E77ch8Gr-104" value="&lt;div&gt;- ID_item (PK)&lt;/div&gt;&lt;div&gt;- producto_associado&lt;/div&gt;&lt;div&gt;- cantidad&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="427" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GlsusITgwDo-E77ch8Gr-105" value="&lt;div align=&quot;left&quot;&gt;- num_informes (PK)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- tipo_informes&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="425" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GlsusITgwDo-E77ch8Gr-106" value="&lt;div align=&quot;left&quot;&gt;- ID_estado (PK)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- nombre&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- descripcion&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="415" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GlsusITgwDo-E77ch8Gr-107" value="&lt;div align=&quot;left&quot;&gt;- ID_incidencia (PK)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- prioridad&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- tipo&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- titulo&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;-descripcion&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GlsusITgwDo-E77ch8Gr-108" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="456" y="190" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
