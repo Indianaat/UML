@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T19:26:38.294Z" agent="5.0 (Windows)" etag="z-lSmgoMksvGiEYnFMjf" version="15.8.7" type="github"><diagram id="KsMH_XpETZ90qygZgwk2" name="Page-1">3VbbbqMwEP2aPCYKEEj7mJK0+7DVVspKe3mpHDwL3hoGGROSfv3axVxNb9JWK+0TnjNjj+ecsc3MC9PTjSB5cosU+Mxd0tPM285c1/UvV+qjkXONrFdBDcSC0RpyOmDPHsGAS4OWjEIxCJSIXLJ8CEaYZRDJAUaEwGoY9gv5MGtOYrCAfUS4jX5jVCY1euGuO/wTsDhpMjvBZe1JSRNsKikSQrHqQd5u5oUCUdaj9BQC1+Q1vNTzrp/xthsTkMm3TPhCw/uH7f0tfg0e/d9rJ/j5MJ+bVY6El6Zgb+Es3IXCrjlKopUDHQAJi0qOjR0iCsoyYkqT54avomIpJ5myruwNNtlASDj1ILPhG8AUpDirEOP1DHdN8xiz6pTwA4MlPRX8JpAY9eN25Y4gNTAcvYevC4uwmRtwlfeKsqMaxnpYc9h6VKaecyI+xQPjjBL63IwRyWqjqv81x1XCJOxzEmlPpY6gwhKZqpq2zqQEL3bB23VZD4XxbWEcZ0qYj9LFtWTZ0JRlrJBCnTpht2lCcj0sU76JpArwrnT1TB38z+QA/A4LJhlmKuSAUmLaC9hwFmuHxBHbWErOMgjbq2j5d07B3B+y7axsur0JtoOPYtuz2N6lOQfF9P9FtOf8Y6J9m2n7MsjoRj90ysrw6eLtMSWwzChQQ5FiRpy/940f2lj4jbk99Z3b82vUFliKCF7vFKCDV9YWoH+jv3BvCOBEsuPwbZ5i3WS4Q6Z23Orb3kmNvmPh6nrMrP5bOlpo3Cfj90YSEYO01nnqgbbqqbZQZvdHUId3/1Xe7g8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-10T19:41:58.555Z" agent="5.0 (Windows)" etag="fy4Y23FZgKAqf8V6cgnN" version="15.8.7" type="github">
+  <diagram id="KsMH_XpETZ90qygZgwk2" name="Page-1">
+    <mxGraphModel dx="1591" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OdC_kD_MoT6z5j716Zk--1" value="3.1.2. Flota de vehiculo de Coordina" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="570" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="OdC_kD_MoT6z5j716Zk--18" value="&lt;div&gt;3.1.2.1&lt;span lang=&quot;ES&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;ES&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Listar los vehículos disponibles&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="OdC_kD_MoT6z5j716Zk--1" vertex="1">
+          <mxGeometry x="70" y="520" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-3" value="&lt;div&gt;3.1.2.2&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;ES&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Listar tipos de vehículo&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="OdC_kD_MoT6z5j716Zk--1">
+          <mxGeometry x="70" y="440" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-4" value="&lt;div&gt;3.1.2.3&lt;span lang=&quot;ES&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;ES&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Modificar información&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="OdC_kD_MoT6z5j716Zk--1">
+          <mxGeometry x="80" y="120" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-5" value="&lt;div&gt;3.1.2.4&lt;span lang=&quot;ES&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;ES&quot;&gt;Borrar vehículo&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="OdC_kD_MoT6z5j716Zk--1">
+          <mxGeometry x="80" y="200" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-6" value="&lt;div&gt;3.1.2.5&lt;span lang=&quot;ES&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;ES&quot;&gt;Añadir un nuevo vehículo&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="OdC_kD_MoT6z5j716Zk--1">
+          <mxGeometry x="80" y="40" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-7" value="&lt;div&gt;3.1.2.6&lt;span lang=&quot;ES&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;ES&quot;&gt;Consultar información vehículo&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="OdC_kD_MoT6z5j716Zk--1">
+          <mxGeometry x="80" y="365" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-8" value="&lt;div&gt;3.1.2.7&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;ES&quot;&gt;&lt;/span&gt;&lt;span lang=&quot;ES&quot;&gt;Consultar quien utiliza un vehículo&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="OdC_kD_MoT6z5j716Zk--1">
+          <mxGeometry x="240" y="310" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-9" value="&lt;div&gt;3.1.2.8&lt;/div&gt;&lt;span lang=&quot;ES&quot;&gt;Tacógrafo&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="OdC_kD_MoT6z5j716Zk--1">
+          <mxGeometry x="300" y="400" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-10" value="&lt;div&gt;3.1.2.9&lt;span lang=&quot;ES&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;ES&quot;&gt;Calcular ruta óptima&lt;/span&gt;&lt;/div&gt;&lt;span lang=&quot;ES&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="OdC_kD_MoT6z5j716Zk--1">
+          <mxGeometry x="80" y="280" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-14" value="" style="endArrow=classic;html=1;rounded=0;jumpSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="OdC_kD_MoT6z5j716Zk--1" source="yIjTW7LH3LwQKEm8OY9Q-9" target="yIjTW7LH3LwQKEm8OY9Q-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="380" as="sourcePoint" />
+            <mxPoint x="250" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-15" value="extends" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="OdC_kD_MoT6z5j716Zk--1">
+          <mxGeometry x="230" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OdC_kD_MoT6z5j716Zk--2" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdC_kD_MoT6z5j716Zk--3" value="Empleado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OdC_kD_MoT6z5j716Zk--53" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="OdC_kD_MoT6z5j716Zk--3" edge="1" target="OdC_kD_MoT6z5j716Zk--18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="360" as="sourcePoint" />
+            <mxPoint x="50" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-1" value="" style="endArrow=block;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;jumpSize=8;" edge="1" parent="1" target="OdC_kD_MoT6z5j716Zk--3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-35" y="220" as="sourcePoint" />
+            <mxPoint x="170" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OdC_kD_MoT6z5j716Zk--3" target="yIjTW7LH3LwQKEm8OY9Q-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="450" as="sourcePoint" />
+            <mxPoint x="90" y="524.35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OdC_kD_MoT6z5j716Zk--3" target="yIjTW7LH3LwQKEm8OY9Q-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="430" as="sourcePoint" />
+            <mxPoint x="110" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yIjTW7LH3LwQKEm8OY9Q-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="420" as="sourcePoint" />
+            <mxPoint x="120" y="475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yIjTW7LH3LwQKEm8OY9Q-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yIjTW7LH3LwQKEm8OY9Q-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="420" as="sourcePoint" />
+            <mxPoint x="120.00000000000227" y="355.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
